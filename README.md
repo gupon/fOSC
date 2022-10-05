@@ -1,4 +1,5 @@
-# fOSC v1.1.1
+# fOSC v1.1.1 
+*added Cinema 4D 2023 support by @gupon*
 
 ## Introduction
 
